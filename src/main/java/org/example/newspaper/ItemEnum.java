@@ -1,7 +1,6 @@
 package org.example.newspaper;
 
 public enum ItemEnum {
-
     FM_367750("367750","小爱早报"),
     FM_456498("456498","小爱晚报"),
     FM_193187("193187","资讯一点通"),

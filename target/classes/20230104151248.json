@@ -1,0 +1,53 @@
+{
+    "msg": "调用成功",
+    "code": "0",
+    "data": {
+        "isBuy": "2",
+        "programType": "1",
+        "listenNum": "515899",
+        "headImgUrl": "",
+        "kjJoinNum": 0,
+        "count": "1321",
+        "detailsPageDesc": "",
+        "list": [
+            {
+                "listenNumShow": "2199",
+                "description": "",
+                "episode": "-9999",
+                "title": "1月4日小爱早报：XBB.1.5致病力如何？对我国影响有多大？专家详解",
+                "operator": "cmpp上传",
+                "img194_194": "http://d.ifengimg.com/w194_h194/p3.ifengimg.com/a/2019_21/8f2528c5ffd52a1_size91_w640_h640.jpg",
+                "duration": "371",
+                "img370_370": "http://d.ifengimg.com/w370_h370/p3.ifengimg.com/a/2019_21/8f2528c5ffd52a1_size91_w640_h640.jpg",
+                "videoUrl": "",
+                "isFree": "1",
+                "programName": "小爱早报",
+                "sourceSort": "1333",
+                "controllNum": "0",
+                "id": "10630772",
+                "publishTime": "1672740023",
+                "img100_100": "http://d.ifengimg.com/w100_h100/p3.ifengimg.com/a/2019_21/8f2528c5ffd52a1_size91_w640_h640.jpg",
+                "isVideo": "2",
+                "updateTime": "1672740023",
+                "leadNumShow": "0",
+                "img297_194": "",
+                "commentNum": "0",
+                "downloadNumShow": "0",
+                "createTime": "1672739379",
+                "audiolist": [
+                    {
+                        "isDefault": "1",
+                        "size": "2906",
+                        "filePath": "http://p3.renbenzhihui.com/cmpp/20230103ee9c17060afaf009fe0147bc87_64.mp3?pf=fm&vid=10630772&tm=1672816367981&pid=367750",
+                        "audioStream": "1"
+                    }
+                ],
+                "img180_240": "",
+                "img640_640": "http://p3.ifengimg.com/a/2019_21/8f2528c5ffd52a1_size91_w640_h640.jpg",
+                "programId": "367750"
+            }
+        ],
+        "sales": 0,
+        "isShow": "2"
+    }
+}
