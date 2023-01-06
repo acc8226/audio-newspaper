@@ -6,7 +6,7 @@ name: update readMe
 on:
   push:
   schedule:
-    - cron: '0 * 23,9 * *'
+    - cron: '0 8,21 * * *'
   workflow_dispatch:
 
 jobs:
